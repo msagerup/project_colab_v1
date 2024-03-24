@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711284076799,
+      "tag": "0000_brief_korvac",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711285204062,
+      "tag": "0001_handy_preak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711287729516,
+      "tag": "0002_nebulous_pet_avengers",
+      "breakpoints": true
+    }
+  ]
+}

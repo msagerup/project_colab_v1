@@ -4,7 +4,7 @@ import type { Config } from 'drizzle-kit';
 dotenv.config({ path: '.env' });
 
 if (!process.env.DATABASE_URL) {
-  console.log('Cannot find database url');
+  console.log('Cannot find database url, drizzle');
 }
 
 export default {
